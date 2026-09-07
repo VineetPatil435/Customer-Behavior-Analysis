@@ -422,17 +422,6 @@ Run the queries against the `customer` table to reproduce the analysis.
 * Data Storytelling
 
 
-
- Author
-
-**Your Name**
-
-Aspiring Data Analyst | Python | SQL | Power BI
-
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
-
-
-
  Conclusion
 
 This project demonstrates an end-to-end "data analytics workflow", transforming raw customer shopping data into structured insights through Python, PostgreSQL, SQL, and Power BI.
